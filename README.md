@@ -1,5 +1,5 @@
 # Skillenza_Data_Semantics_Challenge
-My participation in Data semantics competition organized at Skliienza.com
+My participation in Data semantics competition organized at Skliienza.com (**_3rd_** out of 99 active participants)
 
 The competition was competed by **99** participants and I was **_3rd_** :)
 
